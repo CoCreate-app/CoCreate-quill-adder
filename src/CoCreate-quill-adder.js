@@ -1,7 +1,7 @@
 let canvasSelector = "#canvas";
 let canvas, canvasDocument, canvasWindow;
 
-function QuillEditorAdder() {
+function QuillAdder() {
   // this.lastPlacement;
 
   this.quill = document.createElement("div");
@@ -86,7 +86,7 @@ function QuillEditorAdder() {
 }
 
 function load() {
-  let q = new QuillEditorAdder();
+  let q = new QuillAdder();
 
   canvas = document.querySelector(canvasSelector);
   canvasWindow = canvas.contentWindow;
@@ -118,3 +118,4 @@ function load() {
 
 window.addEventListener("load", load);
 window.addEventListener("CoCreateHtmlTags-rendered", load);
+export default QuillAdder;
