@@ -93,7 +93,7 @@ function load() {
   canvasDocument = canvasWindow.document || canvas.contentDocument;
 
   canvasDocument.addEventListener("dblclick", (e) => {
-    CoCreateUtils.configExecuter(e.target, "editable", (el) => q.wrapQuill(el));
+    CoCreate.utils.configExecuter(e.target, "editable", (el) => q.wrapQuill(el));
     // for (let config of window.cc.configMatch(window.elementConfig, e.target))
     //   if (config.selectable === true) q.wrapQuill(e.target);
     //   else if(config.selectable === false) return;
