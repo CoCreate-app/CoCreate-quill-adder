@@ -1,3 +1,4 @@
+import elementConfig from '@cocreate/builder/src/elementConfig'
 let canvasSelector = "#canvas";
 let canvas, canvasDocument, canvasWindow;
 
@@ -93,7 +94,7 @@ function load() {
   canvasDocument = canvasWindow.document || canvas.contentDocument;
 
   canvasDocument.addEventListener("dblclick", (e) => {
-    CoCreate.utils.configExecuter(e.target, "editable", (el) => q.wrapQuill(el));
+    CoCreate.utils.configExecuter(e.target, "editable", (el) => q.wrapQuill(el), elementConfig);
     // for (let config of window.cc.configMatch(window.elementConfig, e.target))
     //   if (config.selectable === true) q.wrapQuill(e.target);
     //   else if(config.selectable === false) return;
