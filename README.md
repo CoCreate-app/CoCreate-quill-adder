@@ -9,7 +9,7 @@ A simple quill-adder component in vanilla javascript. Easily configured using HT
 
 ![CoCreate-quill-adder](https://cdn.cocreate.app/docs/CoCreate-quill-adder.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/clone)
+## [Docs & Demo](https://cocreate.app/docs/quill-adder)
 
 For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/quill-adder)
 
