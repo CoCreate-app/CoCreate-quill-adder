@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.2...v1.0.3) (2021-04-27)
+
+
+### Bug Fixes
+
+* Update to readme, demo, added cdn scripts ([40aabaf](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/40aabafefbd50c8aac636ee13591a1747f03bbc4))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.1...v1.0.2) (2021-04-23)
 
 
