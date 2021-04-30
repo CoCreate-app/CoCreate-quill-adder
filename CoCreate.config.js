@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "6013623c86c0ba24512cca40",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "quill-adder Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
