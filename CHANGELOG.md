@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.4...v1.0.5) (2021-06-16)
+
+
+### Bug Fixes
+
+* added header for seo ([8d5e1ed](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/8d5e1ed05b6aed70ec45759af5bd5ee8472b5cf1))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.3...v1.0.4) (2021-04-27)
 
 
