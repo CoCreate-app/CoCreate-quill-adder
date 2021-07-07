@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.10...v1.0.11) (2021-07-07)
+
+
+### Bug Fixes
+
+* update package versions ([f850184](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/f8501846ddd1f0193786e76c528a03ecdab538dc))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.9...v1.0.10) (2021-06-30)
 
 
