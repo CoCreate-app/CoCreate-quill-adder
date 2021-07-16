@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/quill-adder",
-  "version": "1.0.12",
+  "version": "1.0.14",
   "description": "A simple quill-adder component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "quill-adder",
@@ -61,6 +61,6 @@
     "webpack-log": "^3.0.1"
   },
   "dependencies": {
-    "@cocreate/docs": "^1.1.29"
+    "@cocreate/docs": "^1.1.32"
   }
 }

@@ -1,3 +1,18 @@
+## [1.0.14](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.13...v1.0.14) (2021-07-14)
+
+
+### Bug Fixes
+
+* upgrade all packages ([5ed2cd9](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/5ed2cd949d4e00bd702848e95bde3a508aaf87da))
+
+## [1.0.13](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.12...v1.0.13) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([5649c60](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/5649c602f7fa224d854c547ac076d55d71241fdb))
+* remove yarn.lock ([f554b38](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/f554b386b42b5554d4ba06860a906641ee76b0f0))
+
 ## [1.0.12](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.11...v1.0.12) (2021-07-10)
 
 
