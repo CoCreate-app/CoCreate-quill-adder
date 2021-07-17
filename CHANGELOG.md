@@ -1,3 +1,11 @@
+## [1.0.15](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.14...v1.0.15) (2021-07-17)
+
+
+### Bug Fixes
+
+* init and update demos scripts ([9541328](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/95413284a8e22a082d97fa9507dcbf13c52223b3))
+* workflows ([7d6cb20](https://github.com/CoCreate-app/CoCreate-quill-adder/commit/7d6cb20e9303331b5697de0e13226f8e554cc1a0))
+
 ## [1.0.14](https://github.com/CoCreate-app/CoCreate-quill-adder/compare/v1.0.13...v1.0.14) (2021-07-14)
 
 
